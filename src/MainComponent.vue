@@ -67,8 +67,8 @@
     <div>
         <section class="bg-white dark:bg-gray-900">
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
-        <img class="w-full dark:hidden" src="/public/WhatsApp Image 2023-07-28 at 10.20.57.jpeg" alt="dashboard image">
-        <img class="w-full hidden dark:block" src="/public/WhatsApp Image 2023-07-28 at 10.20.57.jpeg" alt="dashboard image">
+        <img class="w-full dark:hidden" src="./assets/img/rizky.jpeg" alt="dashboard image">
+        <img class="w-full hidden dark:block" src="./assets/img/rizky.jpeg" alt="dashboard image">
         <div class="mt-4 md:mt-0">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">About Me</h2>
             <p class="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">Nama lengkap Rizky Nur Muzhaki lebih akrab dipanggil Mumu, anak pertama dari dua bersaudara lahir di Cilacap pada : 22-Desember-2004. Bersekolah di SMK ASSALAAM BANDUNG dengan jurusan Rekayasa Perangkat Lunak (RPL). Berdomisil di Kosambi,Bandung,Jawa Barat Kec:Sumur Bandung kel:Merdeka</p>
@@ -258,13 +258,13 @@
 <div class="grid grid-cols-2 md:grid-cols-4 gap-4 bg-white dark:bg-gray-900 antialiased">
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 09.42.54.jpeg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto2.jpeg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 09.42.55 (1).jpeg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto1.jpeg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 09.42.56 (1).jpeg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto4.jpeg" alt="">
         </div>
     </div>
     <div class="grid gap-4">
@@ -272,32 +272,32 @@
             <img class="h-auto max-w-full rounded-lg" src="" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 09.42.55.jpeg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto3.jpeg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 11.16.48 (1).jpeg" alt="">
-        </div>
-    </div>
-    <div class="grid gap-4">
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 11.16.47.jpeg" alt="">
-        </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 11.16.48.jpeg" alt="">
-        </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 11.16.49 (1).jpeg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto5.jpeg" alt="">
         </div>
     </div>
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 11.16.50 (1).jpeg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto7.jpeg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 11.16.49 (2).jpeg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto12.jpeg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="/public/WhatsApp Image 2023-07-28 at 11.16.51.jpeg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto8.jpeg" alt="">
+        </div>
+    </div>
+    <div class="grid gap-4">
+        <div>
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto9.jpeg" alt="">
+        </div>
+        <div>
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto10.jpeg" alt="">
+        </div>
+        <div>
+            <img class="h-auto max-w-full rounded-lg" src="./assets/img/foto11.jpeg" alt="">
         </div>
     </div>
 </div>
@@ -320,7 +320,7 @@
         
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg bg-white" src="/public/GitHub-logo.png" alt="" />
+        <img class="rounded-t-lg bg-white" src="./assets/img/GitHub-logo.png" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
@@ -342,7 +342,7 @@
         
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg bg-white" src="/public/GitHub-logo.png" alt="" />
+        <img class="rounded-t-lg bg-white" src="./assets/img/GitHub-logo.png" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
@@ -361,7 +361,7 @@
       <div class="space-y-4"> 
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg bg-white" src="/public/GitHub-logo.png" alt="" />
+        <img class="rounded-t-lg bg-white" src="./assets/img/GitHub-logo.png" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
