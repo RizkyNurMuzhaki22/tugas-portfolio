@@ -388,7 +388,7 @@
       <div class="grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
           <article class="max-w-xs">
               <a href="#">
-                  <img src="https://thumbs.dreamstime.com/b/html-css-js-icon-set-web-development-logo-icon-set-html-css-javascript-programming-symbol-html-css-js-icon-set-web-255121861.jpg" class="mb-5 rounded-lg bg-white" alt="Image 1">
+                  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" class="mb-5 rounded-lg bg-white h-auto max-w-auto" alt="Image 1">
               </a>
               <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
                   <a href="#">CSS,HTML,Javascript</a>
@@ -400,7 +400,7 @@
           </article>
           <article class="max-w-xs">
               <a href="#">
-                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOlFI0gW6YyWYnxo8O7VAu6pHtKio1V3KpjSmoGHDZ99xNTj7PSIM4LJVmYvmEw8Hs0o&usqp=CAU" class="mb-5 rounded-lg bg-white" alt="Image 2">
+                  <img src="https://masteringjs.io/assets/images/vue/vue-spelled-out.svg" class="mb-5 rounded-lg bg-white h-auto max-w-auto" alt="Image 2">
               </a>
               <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
                   <a href="#">Vue.js</a>
@@ -412,7 +412,7 @@
           </article>
           <article class="max-w-xs">
               <a href="#">
-                  <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" class="mb-5 rounded-lg bg-white" alt="Image 3">
+                  <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" class="mb-5 rounded-lg bg-white h-auto max-w-auto" alt="Image 3">
               </a>
               <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
                   <a href="#">Tailwind.css</a>
@@ -424,7 +424,7 @@
           </article>
           <article class="max-w-xs">
               <a href="#">
-                  <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" class="mb-5 rounded-lg" alt="Image 4">
+                  <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" class="mb-5 rounded-lg h-auto max-w-auto" alt="Image 4">
               </a>
               <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
                   <a href="#">Postman</a>
